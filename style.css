@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8f5e9;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+
+
+.bancoforte {
+    position: fixed;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 250px;
+    border-radius: 10px;
+}
+
+
+.bancomadeira {
+    position: fixed;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 250px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #d6c210; 
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: white;
+    margin: 10px auto;
+    padding: 15px;
+    width: 300px;
+    
+}
+
+.botao {
+    display: inline-block;
+    background-color: #09ff5b; 
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 20px;
+
+}
