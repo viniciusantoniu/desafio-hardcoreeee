@@ -51,3 +51,8 @@ li {
     font-size: 20px;
 
 }
+.botao:hover {
+    background-color: #05a800;
+    transform: scale(1.1); 
+    cursor: pointer; 
+}
