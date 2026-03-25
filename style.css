@@ -14,7 +14,6 @@ body {
     top: 50%;
     transform: translateY(-50%);
     width: 250px;
-    border-radius: 10px;
 }
 
 
@@ -24,11 +23,10 @@ body {
     top: 50%;
     transform: translateY(-50%);
     width: 250px;
-    border-radius: 10px;
 }
 
 h1 {
-    color: #d6c210; 
+    color: #e70d0d; 
 }
 
 ul {
@@ -46,8 +44,8 @@ li {
 
 .botao {
     display: inline-block;
-    background-color: #09ff5b; 
-    color: white;
+    background-color: #09ff00; 
+    color: rgb(255, 255, 255);
     padding: 15px 30px;
     text-decoration: none;
     font-size: 20px;
